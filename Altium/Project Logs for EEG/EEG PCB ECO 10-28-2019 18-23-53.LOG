@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=-5V Pin=D6-A
+Removed Pin From Net: NetName=-5V Pin=D7-A
+Added Pin To Net: NetName=VSS Pin=D6-A
+Added Pin To Net: NetName=VSS Pin=D7-A
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component C56 100nF

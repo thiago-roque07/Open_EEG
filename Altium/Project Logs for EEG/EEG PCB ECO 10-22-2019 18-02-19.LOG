@@ -1,0 +1,2 @@
+Change Component Footprint: Designator=IC1 Old Footprint=SO08 New Footprint=DIP8
+Change Component Library : Designator=IC1 Old Library=Misc.IntLib New Library=Misc.SCHLIB

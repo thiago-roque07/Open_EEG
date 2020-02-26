@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=A2-14
+Removed Pin From Net: NetName=GND Pin=A2-26
+Change Component Comment : Designator=A2 Old Comment=#NAME? New Comment=ESP32 DOIT DEVKIT V1

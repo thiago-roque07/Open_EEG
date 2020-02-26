@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=R30-1
+Removed Pin From Net: NetName=NetJ2_3 Pin=R42-1
+Change Component Footprint: Designator=TRIM1 Old Footprint=RTRIM4G/J New Footprint=RTRIM3386
+Change Component Footprint: Designator=TRIM2 Old Footprint=RTRIM4G/J New Footprint=RTRIM3386
+Change Component Comment : Designator=TRIM1 Old Comment=20k New Comment=R-TRIMM
+Change Component Comment : Designator=TRIM2 Old Comment=20k New Comment=R-TRIMM
+Change Component Library : Designator=TRIM1 Old Library=rcl.IntLib New Library=rcl.SCHLIB
+Change Component Library : Designator=TRIM2 Old Library=rcl.IntLib New Library=rcl.SCHLIB
+Change component parameters: Designator = "TRIM1"; Footprint = "RTRIM3386"; UniqueID = "\HIILSETR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TRIM2"; Footprint = "RTRIM3386"; UniqueID = "\ABFXEYYU"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ2_3 Pin=R30-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R42-1
+Added Member To Class: ClassName=EEG_main Member=Component J2 Default P2 stereo switched jack

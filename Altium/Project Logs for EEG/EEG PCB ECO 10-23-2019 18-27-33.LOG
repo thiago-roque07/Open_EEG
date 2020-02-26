@@ -1,0 +1,156 @@
+Removed Pin From Net: NetName=ADS_A0 Pin=R9-2
+Removed Pin From Net: NetName=ADS_A1 Pin=R32-2
+Change component parameters: Designator = "U1"; Footprint = "DIP8"; UniqueID = "\DMIVKPKQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "DIP8"; UniqueID = "\IHUYMWKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "DIP8"; UniqueID = "\IAHZHCRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "DIP8"; UniqueID = "\TDRAMDZO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "DIP8"; UniqueID = "\BQDRWRIL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "DIP8"; UniqueID = "\URHNVKZC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "DIP8"; UniqueID = "\TRXMRSIH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "TO92 - TL431"; UniqueID = "\MGZUDEBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TL431"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP1(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP2(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP3(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP4(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP5(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP6(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP7(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP8(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP9(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP10(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP11(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP12(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=TP13(PAD.03X.03)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ADS_A1 Pin=R9-2
+Added Pin To Net: NetName=ADS_A0 Pin=R32-2
+Added Pin To Net: NetName=ADS_A1 Pin=TP1-P$1
+Added Pin To Net: NetName=NetC3_2 Pin=TP2-P$1
+Added Pin To Net: NetName=NetC8_2 Pin=TP3-P$1
+Added Pin To Net: NetName=NetC9_2 Pin=TP4-P$1
+Added Pin To Net: NetName=ADS_A0 Pin=TP5-P$1
+Added Pin To Net: NetName=NetC16_2 Pin=TP6-P$1
+Added Pin To Net: NetName=NetC21_2 Pin=TP7-P$1
+Added Pin To Net: NetName=NetC22_2 Pin=TP8-P$1
+Added Pin To Net: NetName=Rg Pin=TP9-P$1
+Added Pin To Net: NetName=DRL Pin=TP10-P$1
+Added Pin To Net: NetName=2.5Vref Pin=TP11-P$1
+Added Pin To Net: NetName=+5V Pin=TP12-P$1
+Added Pin To Net: NetName=-5V Pin=TP13-P$1
+Added Member To Class: ClassName=EEG_main Member=Component TP1 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP2 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP3 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP4 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP5 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP6 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP7 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP8 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP9 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_main Member=Component TP10 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component TP11 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component TP12 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component TP13 SparkFun Test Points    Bare copper test points for troubleshooting or In-Circuit-Testing. These are used by our Production team for verifying production board runs using pogo-pins on test beds.   SparkFun Products: SparkFun LSM9DS1 Breakout  SparkFun PSOC  SparkFun Load Cell Amplifier

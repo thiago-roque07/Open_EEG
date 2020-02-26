@@ -1,0 +1,14 @@
+Change Component Comment : Designator=U1 Old Comment=INA828 New Comment=AD620
+Change Component Comment : Designator=U4 Old Comment=INA828 New Comment=AD620
+Change component parameters: Designator = "U1"; Footprint = "SOIC8"; UniqueID = "\BRNHPEST"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Família"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "SOIC8"; UniqueID = "\YOIYUMMK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Família"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"

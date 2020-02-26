@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=BT_TX Pin=R62-2
+Removed Pin From Net: NetName=BT_RX Pin=R63-2
+Removed Member From Class: ClassName=EEG_Power_Connector_ESP32 Member=R62
+Removed Member From Class: ClassName=EEG_Power_Connector_ESP32 Member=R63
+Added Pin To Net: NetName=BT_RX Pin=A1-1
+Added Pin To Net: NetName=BT_TX Pin=A1-2

@@ -1,0 +1,123 @@
+Change Component DesignItemId : Designator=U1 Old DesignItemId=AD620 New DesignItemId=INA828
+Change Component DesignItemId : Designator=U4 Old DesignItemId=AD620 New DesignItemId=INA828
+Change Component Footprint: Designator=U1 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U2 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U3 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U4 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U5 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U6 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Footprint: Designator=U7 Old Footprint=DIP8 New Footprint=SOIC8
+Change Component Comment : Designator=U1 Old Comment=AD620 New Comment=INA828
+Change Component Comment : Designator=U4 Old Comment=AD620 New Comment=INA828
+Change Component Description : Designator=U1 Old Description=Low Cost Low Power Instrumentation Amplifier New Description=50-£gV Offset, 7-nV/¡ÔHz Noise, Low-Power, Precision Instrumentation Amplifier
+Change Component Description : Designator=U4 Old Description=Low Cost Low Power Instrumentation Amplifier New Description=50-£gV Offset, 7-nV/¡ÔHz Noise, Low-Power, Precision Instrumentation Amplifier
+Change Component Library : Designator=U1 Old Library=amplifiers.SCHLIB New Library=amplifiers.IntLib
+Change Component Library : Designator=U4 Old Library=amplifiers.SCHLIB New Library=amplifiers.IntLib
+Change component parameters: Designator = "TP1"; Footprint = "PAD.03X.03"; UniqueID = "\BMWEELFO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP2"; Footprint = "PAD.03X.03"; UniqueID = "\MITGAPJW"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP3"; Footprint = "PAD.03X.03"; UniqueID = "\XJEVGVBZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP4"; Footprint = "PAD.03X.03"; UniqueID = "\OHFEEYVX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP5"; Footprint = "PAD.03X.03"; UniqueID = "\RKDYWXHZ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP6"; Footprint = "PAD.03X.03"; UniqueID = "\JOECSNTN"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP7"; Footprint = "PAD.03X.03"; UniqueID = "\GXAGNQNE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP8"; Footprint = "PAD.03X.03"; UniqueID = "\FXAYMAPE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP9"; Footprint = "PAD.03X.03"; UniqueID = "\HUHYMPSG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "TP10"; Footprint = "PAD.03X.03"; UniqueID = "\EFCXQNRE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2"; Footprint = "SOIC8"; UniqueID = "\IHUYMWKE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U3"; Footprint = "SOIC8"; UniqueID = "\IAHZHCRX"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U5"; Footprint = "SOIC8"; UniqueID = "\BQDRWRIL"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6"; Footprint = "SOIC8"; UniqueID = "\URHNVKZC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U7"; Footprint = "SOIC8"; UniqueID = "\TRXMRSIH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U8"; Footprint = "TO92 - TL431"; UniqueID = "\MGZUDEBE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "TL431"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1"; Footprint = "SOIC8"; UniqueID = "\DMIVKPKQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "INA828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Texas Instrumenta"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U4"; Footprint = "SOIC8"; UniqueID = "\TDRAMDZO"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Familia"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "INA828"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Texas Instrumenta"; VariantName = "[No Variations]"

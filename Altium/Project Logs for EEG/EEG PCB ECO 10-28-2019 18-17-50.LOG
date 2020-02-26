@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C55 NewDesignator=C56
+Change Component Designator: OldDesignator=C56 NewDesignator=C55
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component C56 100nF

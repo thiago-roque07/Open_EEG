@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=BT_RX Pin=A1-1
+Removed Pin From Net: NetName=BT_TX Pin=A1-2
+Removed Pin From Net: NetName=BT_RX Pin=A2-23
+Removed Pin From Net: NetName=BT_TX Pin=A2-24
+Added Component: Designator=R60(R0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R61(R0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R62(R0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R63(R0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=BT_RX Pin=R60-1
+Added Pin To Net: NetName=BT_TX Pin=R61-1
+Added Pin To Net: NetName=BT_TX Pin=R62-2
+Added Pin To Net: NetName=BT_RX Pin=R63-2
+Added Pin To Net: NetName=NetA1_1 Pin=A1-1
+Added Pin To Net: NetName=NetA1_1 Pin=R63-1
+Added Net: Name=NetA1_1
+Added Pin To Net: NetName=NetA1_2 Pin=A1-2
+Added Pin To Net: NetName=NetA1_2 Pin=R62-1
+Added Net: Name=NetA1_2
+Added Pin To Net: NetName=NetA2_23 Pin=A2-23
+Added Pin To Net: NetName=NetA2_23 Pin=R60-2
+Added Net: Name=NetA2_23
+Added Pin To Net: NetName=NetA2_24 Pin=A2-24
+Added Pin To Net: NetName=NetA2_24 Pin=R61-2
+Added Net: Name=NetA2_24
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component R60 0R
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component R61 0R
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component R62 0R
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component R63 0R

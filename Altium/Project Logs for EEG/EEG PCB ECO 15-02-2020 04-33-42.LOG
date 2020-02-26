@@ -1,0 +1,8 @@
+Added Component: Designator=C36(E1,8-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=C36-+
+Added Pin To Net: NetName=GND Pin=C36--
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component C36 10uF

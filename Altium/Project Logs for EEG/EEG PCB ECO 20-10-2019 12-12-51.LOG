@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=U1 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U2 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U3 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U4 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U5 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U6 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Footprint: Designator=U7 Old Footprint=SOIC8 New Footprint=DIP8
+Change Component Comment : Designator=U2 Old Comment=TL082 New Comment==Part Number
+Change Component Comment : Designator=U3 Old Comment=TL082 New Comment==Part Number
+Change Component Comment : Designator=U5 Old Comment=TL082 New Comment==Part Number
+Change Component Comment : Designator=U6 Old Comment=TL082 New Comment==Part Number
+Change Component Comment : Designator=U7 Old Comment=TL082 New Comment==Part Number
+Change Component Description : Designator=U1 Old Description= New Description=Low Cost Low Power Instrumentation Amplifier
+Change Component Description : Designator=U4 Old Description= New Description=Low Cost Low Power Instrumentation Amplifier
+Change Component Description : Designator=U2 Old Description= New Description=Wide Bandwidth Dual JFET Input Op Amp
+Change Component Description : Designator=U3 Old Description= New Description=Wide Bandwidth Dual JFET Input Op Amp
+Change Component Description : Designator=U5 Old Description= New Description=Wide Bandwidth Dual JFET Input Op Amp
+Change Component Description : Designator=U6 Old Description= New Description=Wide Bandwidth Dual JFET Input Op Amp
+Change Component Description : Designator=U7 Old Description= New Description=Wide Bandwidth Dual JFET Input Op Amp
+Change Component Library : Designator=U1 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U2 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U3 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U4 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U5 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U6 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB
+Change Component Library : Designator=U7 Old Library=amplifiers.IntLib New Library=amplifiers.SCHLIB

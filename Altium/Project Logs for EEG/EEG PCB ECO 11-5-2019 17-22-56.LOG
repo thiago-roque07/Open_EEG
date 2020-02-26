@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=2.5Vref Pin=C29-1
+Removed Pin From Net: NetName=+5V Pin=C29-2
+Removed Pin From Net: NetName=2.5Vref Pin=C30-1
+Removed Pin From Net: NetName=+5V Pin=C30-2
+Removed Pin From Net: NetName=2.5Vref Pin=C31-1
+Removed Pin From Net: NetName=+5V Pin=C31-2
+Removed Pin From Net: NetName=2.5Vref Pin=C32-1
+Removed Pin From Net: NetName=+5V Pin=C32-2
+Removed Pin From Net: NetName=2.5Vref Pin=C46-1
+Removed Pin From Net: NetName=+5V Pin=C46-2
+Removed Pin From Net: NetName=2.5Vref Pin=C47-1
+Removed Pin From Net: NetName=+5V Pin=C47-2
+Removed Pin From Net: NetName=2.5Vref Pin=C48-1
+Removed Pin From Net: NetName=+5V Pin=C48-2
+Removed Pin From Net: NetName=2.5Vref Pin=R16-2
+Removed Pin From Net: NetName=2.5Vref Pin=R39-2
+Change Component Comment : Designator=C29 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C30 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C31 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C32 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C46 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C47 Old Comment=NP New Comment=100nF
+Change Component Comment : Designator=C48 Old Comment=NP New Comment=100nF
+Added Component: Designator=C33(E1,8-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C29-1
+Added Pin To Net: NetName=2.5Vref Pin=C29-2
+Added Pin To Net: NetName=GND Pin=C30-1
+Added Pin To Net: NetName=2.5Vref Pin=C30-2
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=2.5Vref Pin=C31-2
+Added Pin To Net: NetName=GND Pin=C32-1
+Added Pin To Net: NetName=2.5Vref Pin=C32-2
+Added Pin To Net: NetName=+5V Pin=C33-+
+Added Pin To Net: NetName=GND Pin=C33--
+Added Pin To Net: NetName=GND Pin=C34-1
+Added Pin To Net: NetName=+5V Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C46-1
+Added Pin To Net: NetName=2.5Vref Pin=C46-2
+Added Pin To Net: NetName=GND Pin=C47-1
+Added Pin To Net: NetName=2.5Vref Pin=C47-2
+Added Pin To Net: NetName=GND Pin=C48-1
+Added Pin To Net: NetName=2.5Vref Pin=C48-2
+Added Pin To Net: NetName=GND Pin=R16-2
+Added Pin To Net: NetName=GND Pin=R39-2
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component C33 10uF
+Added Member To Class: ClassName=EEG_Power_Connector_ESP32 Member=Component C34 10uF

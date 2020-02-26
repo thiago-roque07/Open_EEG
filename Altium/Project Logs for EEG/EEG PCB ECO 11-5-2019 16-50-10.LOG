@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=C29-1
+Removed Pin From Net: NetName=GND Pin=C30-1
+Removed Pin From Net: NetName=GND Pin=C31-1
+Removed Pin From Net: NetName=GND Pin=C32-1
+Removed Pin From Net: NetName=2.5Vref Pin=C40-1
+Removed Pin From Net: NetName=2.5Vref Pin=C41-1
+Removed Pin From Net: NetName=2.5Vref Pin=C42-1
+Removed Pin From Net: NetName=2.5Vref Pin=C45-1
+Removed Pin From Net: NetName=GND Pin=C46-1
+Removed Pin From Net: NetName=GND Pin=C47-1
+Removed Pin From Net: NetName=GND Pin=C48-1
+Removed Pin From Net: NetName=2.5Vref Pin=C52-1
+Removed Pin From Net: NetName=2.5Vref Pin=C53-1
+Removed Pin From Net: NetName=2.5Vref Pin=C54-1
+Change Component Comment : Designator=C29 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C30 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C31 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C32 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C46 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C47 Old Comment=100nF New Comment=NP
+Change Component Comment : Designator=C48 Old Comment=100nF New Comment=NP
+Added Pin To Net: NetName=2.5Vref Pin=C29-1
+Added Pin To Net: NetName=2.5Vref Pin=C30-1
+Added Pin To Net: NetName=2.5Vref Pin=C31-1
+Added Pin To Net: NetName=2.5Vref Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C40-1
+Added Pin To Net: NetName=GND Pin=C41-1
+Added Pin To Net: NetName=GND Pin=C42-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=2.5Vref Pin=C46-1
+Added Pin To Net: NetName=2.5Vref Pin=C47-1
+Added Pin To Net: NetName=2.5Vref Pin=C48-1
+Added Pin To Net: NetName=GND Pin=C52-1
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=GND Pin=C54-1

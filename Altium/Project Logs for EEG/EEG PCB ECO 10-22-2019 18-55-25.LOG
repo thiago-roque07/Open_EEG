@@ -1,0 +1,73 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U10
+Added Component: Designator=C46(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C47(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C48(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C49(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C50(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C51(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C52(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C53(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C54(C0805 - rounded)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VSS Pin=C46-1
+Added Pin To Net: NetName=+5V Pin=C46-2
+Added Pin To Net: NetName=VSS Pin=C47-1
+Added Pin To Net: NetName=+5V Pin=C47-2
+Added Pin To Net: NetName=VSS Pin=C48-1
+Added Pin To Net: NetName=+5V Pin=C48-2
+Added Pin To Net: NetName=AGND Pin=C49-1
+Added Pin To Net: NetName=VSS Pin=C49-2
+Added Pin To Net: NetName=AGND Pin=C50-1
+Added Pin To Net: NetName=VSS Pin=C50-2
+Added Pin To Net: NetName=AGND Pin=C51-1
+Added Pin To Net: NetName=VSS Pin=C51-2
+Added Pin To Net: NetName=AGND Pin=C52-1
+Added Pin To Net: NetName=+5V Pin=C52-2
+Added Pin To Net: NetName=AGND Pin=C53-1
+Added Pin To Net: NetName=+5V Pin=C53-2
+Added Pin To Net: NetName=AGND Pin=C54-1
+Added Pin To Net: NetName=+5V Pin=C54-2
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C46 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C47 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C48 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C49 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C50 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C51 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C52 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C53 100nF
+Added Member To Class: ClassName=EEG_Power_Connector Member=Component C54 100nF

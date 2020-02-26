@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [EEG.PrjPcb]
+   Generated File[EEG-RoundHoles.TXT]
+   Generated File[EEG-SlotHoles.TXT]
+   Generated File[EEG.LDP]
+   Generated File[EEG.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 04:45:28 On 15/02/2020

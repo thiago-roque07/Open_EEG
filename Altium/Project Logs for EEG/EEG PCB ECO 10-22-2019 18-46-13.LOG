@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=-5V Pin=U1-4
+Removed Pin From Net: NetName=-5V Pin=U2-4
+Removed Pin From Net: NetName=-5V Pin=U3-4
+Removed Pin From Net: NetName=-5V Pin=U5-4
+Removed Pin From Net: NetName=-5V Pin=U6-4
+Removed Pin From Net: NetName=-5V Pin=U7-4
+Added Pin To Net: NetName=VSS Pin=U1-4
+Added Pin To Net: NetName=VSS Pin=U2-4
+Added Pin To Net: NetName=VSS Pin=U3-4
+Added Pin To Net: NetName=VSS Pin=U5-4
+Added Pin To Net: NetName=VSS Pin=U6-4
+Added Pin To Net: NetName=VSS Pin=U7-4
